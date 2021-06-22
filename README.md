@@ -4,9 +4,9 @@ A series of CSL files that output Markdown-formatted references for common citat
 
 ## Installation
 
-- For [Papers][(http://support.mekentosj.com/kb/pro-tips/pro-tip-adding-additional-citation-styles)]
-- For [Zotero][(http://www.zotero.org/support/styles)]
-- For [Mendeley][(http://www.mendeley.com/faq/#custom-csl)]
+- For [Papers](http://support.mekentosj.com/kb/pro-tips/pro-tip-adding-additional-citation-styles)
+- For [Zotero](http://www.zotero.org/support/styles)
+- For [Mendeley](http://www.mendeley.com/faq/#custom-csl)
 
 ## Development/To-dos
 
